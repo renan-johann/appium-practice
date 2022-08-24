@@ -7,3 +7,5 @@ node_modules/
 # reporter
 allure-report
 allure-results
+
+.env
